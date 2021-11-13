@@ -5,11 +5,11 @@
 <img src="471748e7-7b4d-45c7-bb31-985e0128e4af.jfif" width="350" title="hardware">
 
 
-2. install cuda version
+2. check your cuda version
 
 <img src="WeChat Screenshot_20211113150350.png" width="350" title="hardware">
 
-3. download and install cuda from 
+3. download and install cuda software from 
 
 https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 
@@ -25,7 +25,6 @@ and find the corresponding version of cudnn from https://www.tensorflow.org/inst
 
 <img src="WeChat Screenshot_20211113151124.png" width="400" title="hardware">
 
-
 5. download cudnn package of the correct version from https://developer.nvidia.com/rdp/cudnn-archive#a-collapse811-111 
 
 <img src="WeChat Screenshot_20211113151342.png" width="600" title="hardware">
@@ -37,7 +36,7 @@ and find the corresponding version of cudnn from https://www.tensorflow.org/inst
 cudnn-11.2-windows-x64-v8.1.0.77\cuda
 ```
 
-and copy all files and paste to 
+and copy all files and paste to, for the overlapping files, overwrite them
 
 ```
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5
