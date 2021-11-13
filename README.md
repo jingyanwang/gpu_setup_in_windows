@@ -21,5 +21,6 @@ when install cuda, remember to choose the right device as you checked in step 1
 
 <img src="WeChat Screenshot_20211113150929.png" width="400" title="hardware">
 
+and find the corresponding version of cudnn from https://www.tensorflow.org/install/source_windows#gpu
 
-
+<img src="WeChat Screenshot_20211113151124.png" width="400" title="hardware">
