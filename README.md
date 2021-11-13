@@ -19,7 +19,7 @@ when install cuda, remember to choose the right device as you checked in step 1
 
 4. check your version of tensorflow
 
-<img src="WeChat Screenshot_20211113150929.png" width="400" title="hardware">
+<img src="WeChat Screenshot_20211113150929.png" width="250" title="hardware">
 
 and find the corresponding version of cudnn from https://www.tensorflow.org/install/source_windows#gpu
 
@@ -44,3 +44,8 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5
 ```
 
 <img src="WeChat Screenshot_20211113151527.png" width="400" title="hardware">
+
+
+7. run python code to detect the GPU device
+
+
