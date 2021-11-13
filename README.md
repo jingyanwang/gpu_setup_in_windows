@@ -31,3 +31,14 @@ and find the corresponding version of cudnn from https://www.tensorflow.org/inst
 <img src="WeChat Screenshot_20211113151342.png" width="400" title="hardware">
 
 
+6. go to folder 
+
+```
+cudnn-11.2-windows-x64-v8.1.0.77\cuda
+```
+
+and copy all files and paste to 
+
+```
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5
+```
