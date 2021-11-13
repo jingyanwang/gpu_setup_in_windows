@@ -13,8 +13,13 @@
 
 https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 
-<img src="WeChat Screenshot_20211113150657.png" width="350" title="hardware">
+<img src="WeChat Screenshot_20211113150657.png" width="400" title="hardware">
 
 when install cuda, remember to choose the right device as you checked in step 1
+
+4. check your version of tensorflow
+
+<img src="WeChat Screenshot_20211113150929.png" width="400" title="hardware">
+
 
 
