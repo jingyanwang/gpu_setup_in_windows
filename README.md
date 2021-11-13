@@ -93,3 +93,6 @@ model.fit(x_train, y_train, batch_size=32, epochs=1000, validation_data=(x_val, 
 ```
 
 <img src="WeChat Screenshot_20211113152138.png" width="800" title="hardware">
+
+<img src="WeChat Screenshot_20211113152002.png" width="500" title="hardware">
+
