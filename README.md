@@ -3,3 +3,11 @@
 1. check gpu 
 
 <img src="471748e7-7b4d-45c7-bb31-985e0128e4af.jfif" width="350" title="hardware">
+
+
+2. install cuda
+
+<img src="WeChat Screenshot_20211113150350.png" width="350" title="hardware">
+
+
+
