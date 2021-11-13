@@ -17,9 +17,9 @@ https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
 
 when install cuda, remember to choose the right device as you checked in step 1
 
-4. check your version of tensorflow
+4. check your version of tensorflow (you can also see the version of python and keras)
 
-<img src="WeChat Screenshot_20211113150929.png" width="250" title="hardware">
+<img src="WeChat Screenshot_20211113153009.png" width="250" title="hardware">
 
 and find the corresponding version of cudnn from https://www.tensorflow.org/install/source_windows#gpu
 
