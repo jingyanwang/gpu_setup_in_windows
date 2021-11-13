@@ -56,4 +56,4 @@ print([x.name for x in local_device_protos])
 
 <img src="WeChat Screenshot_20211113151801.png" width="400" title="hardware">
 
-
+8. run dl training program to check if the GPU is used
