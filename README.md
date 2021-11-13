@@ -48,4 +48,8 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5
 
 7. run python code to detect the GPU device
 
-
+```python
+from tensorflow.python.client import device_lib
+local_device_protos = device_lib.list_local_devices()
+print([x.name for x in local_device_protos])
+```
