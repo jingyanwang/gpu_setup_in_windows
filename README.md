@@ -53,3 +53,7 @@ from tensorflow.python.client import device_lib
 local_device_protos = device_lib.list_local_devices()
 print([x.name for x in local_device_protos])
 ```
+
+<img src="WeChat Screenshot_20211113151801.png" width="400" title="hardware">
+
+
