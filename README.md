@@ -58,7 +58,7 @@ print([x.name for x in local_device_protos])
 
 8. run dl training program to check if the GPU is used
 
-```
+```python
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
