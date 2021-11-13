@@ -28,7 +28,7 @@ and find the corresponding version of cudnn from https://www.tensorflow.org/inst
 
 5. download cudnn package of the correct version from https://developer.nvidia.com/rdp/cudnn-archive#a-collapse811-111 
 
-<img src="WeChat Screenshot_20211113151342.png" width="400" title="hardware">
+<img src="WeChat Screenshot_20211113151342.png" width="600" title="hardware">
 
 
 6. go to folder 
