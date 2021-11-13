@@ -42,3 +42,5 @@ and copy all files and paste to
 ```
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5
 ```
+
+<img src="WeChat Screenshot_20211113151527.png" width="400" title="hardware">
