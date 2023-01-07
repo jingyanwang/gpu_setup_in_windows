@@ -29,6 +29,7 @@ and find the corresponding version of cudnn from https://www.tensorflow.org/inst
 
 <img src="WeChat Screenshot_20211113151342.png" width="600" title="hardware">
 
+https://developer.download.nvidia.com/compute/redist/cudnn/v8.6.0/local_installers/11.8/
 
 6. go to folder 
 
