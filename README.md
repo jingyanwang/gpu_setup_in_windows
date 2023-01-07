@@ -15,7 +15,7 @@ https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64
 
 or 
 
-https://developer.nvidia.com/cuda-11.0-download-archive
+https://developer.nvidia.com/cuda-11-7-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=11
 
 <img src="WeChat Screenshot_20211113150657.png" width="700" title="hardware">
 
